@@ -7,9 +7,9 @@ Apache Netbeans 13
 JDK 1.8.0_202
 
 ### Funcionamiento
-Clona el repositorio desde el link de:
+Clona el repositorio mediante:
 
-    https://github.com/kirii626/ejercicios-java-codigos
+     git clone https://github.com/kirii626/ejercicios-java-codigos
 
 Una vez clonado, recuerda que debes instalar primero el JDK y luego el Apache; entonces, abrelo y en la sección de Files en la esquina suoerior izquierda selecciona Open Project y navega hasta la ruta donde clonaste el repositorio. El Apache debería reconocerlo de este modo: 
 
